@@ -1,0 +1,51 @@
+
+body{
+  margin: 0;
+  font-family: sans-serif;
+  text-align: left;
+}
+.discrip{
+  border: 120px ridge black;
+
+    background-color: #2e2759;
+    padding-left: 80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+h1{
+  width: 40%;
+  font-size: 2.5rem;
+  color: white;
+}
+p{
+  width: 30%;
+  color: LightGray;
+  font-size: 0.9rem;
+  padding-bottom: 40px;
+  line-height: 1.4;
+}
+h2{
+  width: 40%;
+  color: white;
+  word-spacing: 85px;
+  margin-bottom: 0;
+}
+h4{
+  width: 40%;
+  font-family: 'Kanit', sans-serif;
+  color: #ada6d8;
+  font-size: 0.9rem;
+  word-spacing: 60px;
+  margin-top: 0;
+}
+img {
+  float: right;
+  position: absolute;
+  right: 120px;
+    top: 120px;
+    width: 480px;
+    height: 399px;
+}
+.purple-text{
+  color: purple;
+}
